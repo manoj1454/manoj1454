@@ -1,6 +1,6 @@
 # Hi, I'm Manoj Chary 👋
 
-Computer Science Engineering student interested in building practical software across **AI/ML, backend systems, and full-stack development**.
+Computer Science Engineering student building practical projects across **full-stack development, backend systems, and AI/ML**.
 
 - 🌐 **Portfolio:** [manojchary.vercel.app](https://manojchary.vercel.app)
 - 💻 **GitHub:** [@manoj1454](https://github.com/manoj1454)
@@ -9,23 +9,28 @@ Computer Science Engineering student interested in building practical software a
 
 ## Featured Projects
 
-### 🔎 [Hallucination Detector](https://github.com/manoj1454/hallucination-detector)
-A multi-service application that analyzes medical LLM responses at claim level, retrieves supporting context, and flags potentially risky claims.
-- **Stack:** React, Java Spring Boot, Python, FastAPI, ChromaDB, RAG, Tavily, Groq
-- **Live app:** [Frontend](https://hallucination-detector-three.vercel.app) · [ML service](https://manoj1454-hallucination-detector-ml.hf.space) · [API](https://hallucination-detector-backend.onrender.com)
+### 1. 🌐 [My Portfolio](https://manojchary.vercel.app)
+My personal developer portfolio showcasing projects, technical skills, and work across software engineering and AI/ML.
+- **Stack:** Next.js, React, TypeScript, CSS
+- **Source code:** [MY_PORTFOLIO](https://github.com/manoj1454/MY_PORTFOLIO)
 
-### ⚖️ [TALQS — Legal Question Answering & Summarization](https://github.com/manoj1454/TALQS)
+### 2. 🔐 [Digital Certificate Verification](https://github.com/manoj1454/Digi-cirtificate-verification)
+A certificate-verification project focused on checking the authenticity of digital credentials. The repository is currently private, so its source code may not be accessible to visitors.
+- **Repository:** [Digi-cirtificate-verification](https://github.com/manoj1454/Digi-cirtificate-verification)
+
+### 3. ⚖️ [TALQS — Legal Question Answering & Summarization](https://github.com/manoj1454/TALQS)
 A document assistant for summarizing legal judgments and answering questions about uploaded PDFs using transformer-based NLP.
 - **Stack:** Python, Gradio, Hugging Face Transformers, PyTorch, pdfplumber
 - **Live demo:** [Try TALQS on Hugging Face](https://huggingface.co/spaces/manoj1454/TALQS)
 
-### 🧰 [Welding Defect Detection](https://github.com/manoj1454/welding-defect-detection)
-A computer-vision project for detecting and localizing welding defects with a deep-learning object detection pipeline.
-- **Stack:** Python, PyTorch, RetinaNet, ResNet-50-FPN, Flask
+### 4. 🔎 [Hallucination Detector](https://github.com/manoj1454/hallucination-detector)
+A multi-service application that analyzes medical LLM responses at claim level, retrieves supporting context, and flags potentially risky claims.
+- **Stack:** React, Java Spring Boot, Python, FastAPI, ChromaDB, RAG, Tavily, Groq
+- **Live app:** [Frontend](https://hallucination-detector-three.vercel.app) · [ML service](https://manoj1454-hallucination-detector-ml.hf.space) · [API](https://hallucination-detector-backend.onrender.com)
 
-### 🌱 [Carbon Calculation](https://github.com/manoj1454/Carbon-calculation)
-A proof-of-concept carbon accounting application for activity data, emissions calculations, product footprints, and dashboard reporting.
-- **Stack:** Python, FastAPI, SQLAlchemy, SQLite, JavaScript, Chart.js
+### Other Projects
+- 🧰 [Welding Defect Detection](https://github.com/manoj1454/welding-defect-detection) — computer-vision object detection using PyTorch, RetinaNet, ResNet-50-FPN, and Flask.
+- 🌱 [Carbon Calculation](https://github.com/manoj1454/Carbon-calculation) — a carbon-accounting proof of concept using FastAPI, SQLAlchemy, SQLite, JavaScript, and Chart.js.
 
 ## Technical Skills
 
@@ -35,12 +40,6 @@ A proof-of-concept carbon accounting application for activity data, emissions ca
 - **Frontend:** React, Next.js, HTML, CSS
 - **Data & tools:** MongoDB, SQLite, SQLAlchemy, Git, GitHub
 
-## What I Focus On
-
-- Building end-to-end projects with clear interfaces and documented architecture
-- Connecting ML capabilities to usable applications and APIs
-- Improving problem-solving skills through DSA practice
-
 ## Connect
 
 - **Portfolio:** [manojchary.vercel.app](https://manojchary.vercel.app)
@@ -49,4 +48,4 @@ A proof-of-concept carbon accounting application for activity data, emissions ca
 
 ---
 
-*I value clear engineering, honest documentation, and continuous learning. Project details and capabilities are documented in each repository.*
+*I value clear engineering, honest documentation, and continuous learning. See each repository for implementation details and project limitations.*
